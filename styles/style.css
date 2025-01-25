@@ -1,1 +1,27 @@
 /* Styles for recipes */
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    font-family: sans-serif, serif, Verdana;
+    background-color: #ff0000;
+}
+
+.ingrediences{
+    background-color: wheat;
+    font-family: "Lucida Handwriting", Papyrus, sans-serif;
+}
+
+.steps {
+    background-color: #f5f5f5;
+    font-family: Papyrus, 'Courier New', sans-serif;
+}
+
+
+ul{
+    color: azure;
+    background-color: black;
+}
+.mainlist,.steplist{
+    background-color: bisque;
+}
+
